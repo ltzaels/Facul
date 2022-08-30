@@ -1,0 +1,88 @@
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.csproj.AssemblyReference.cache
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.AssemblyInfoInputs.cache
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.AssemblyInfo.cs
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.csproj.CoreCompileInputs.cache
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\appsettings.json
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\PI.exe
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\PI.deps.json
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\PI.runtimeconfig.json
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\PI.dll
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\PI.pdb
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luys\Desktop\Projeto Integrador\PI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\scopedcss\bundle\PI.styles.css
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.csproj.CopyComplete
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.dll
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\refint\PI.dll
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.pdb
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\PI.genruntimeconfig.cache
+C:\Users\Luys\Desktop\Projeto Integrador\PI\obj\Debug\net6.0\ref\PI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\appsettings.json
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\PI.exe
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\PI.deps.json
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\PI.runtimeconfig.json
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\PI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\PI.pdb
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.csproj.AssemblyReference.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.AssemblyInfoInputs.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.AssemblyInfo.cs
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.csproj.CoreCompileInputs.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\scopedcss\bundle\PI.styles.css
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.csproj.CopyComplete
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\refint\PI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.pdb
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\PI.genruntimeconfig.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador\Projeto Integrador\PI\obj\Debug\net6.0\ref\PI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.csproj.AssemblyReference.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.AssemblyInfoInputs.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.AssemblyInfo.cs
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.csproj.CoreCompileInputs.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\refint\PI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.pdb
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\appsettings.json
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\PI.exe
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\PI.deps.json
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\PI.runtimeconfig.json
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\PI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\PI.pdb
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\scopedcss\bundle\PI.styles.css
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.csproj.CopyComplete
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\PI.genruntimeconfig.cache
+C:\Users\Luys\Desktop\121\Projeto Integrador - Copy\Projeto Integrador\PI\obj\Debug\net6.0\ref\PI.dll

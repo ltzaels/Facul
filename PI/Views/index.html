@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="jquery-3.6.0.js"></script>
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <form name="formularioAula" autocomplete="off">
+    <h2>
+      Avalie a aula!
+    </h2>
+    <div class="input">
+      <input type="text" id="nomeInput" required>
+      <label for="nomeInput">Nome (opcional)</label>
+      <span class="error"></span>
+    </div>
+
+    <div class="input">
+      <input type="text" id="materiaInput" required>
+      <label for="materiaInput">Qual materia?</label>
+      <span class="error"></span>
+    </div>
+    <br>
+
+
+    <div class="input">
+      <input type="number" id="notaInput" required>
+      <label for="notaInput">Qual sua nota para a aula? (1, 2, 3, 4, 5)</label>
+      <span class="error"></span>
+    </div>
+    <br>
+
+    <div class="input">
+      <input type="text" id="sugestaoInput" required>
+      <label for="sugestaoInput">Nos ajude mandando alguma sugestão ou elogio!</label>
+      <span class="error"></span>
+    </div>
+    <br>
+
+    <div>
+      <button id="buttonCad" onclick="comentarios()">Concluir</button>
+    </div>
+    <br>
+
+    <p class="link">
+      Ainda não tem conta?
+      <a href="cadastro.html">Cadastre-se</a>
+    </p>
+    <br>
+
+    <p class="link">
+      Painel administrativo (em testes)
+      <a href="admin.html">Admin</a>
+    </p>
+  </form>
+</body>
+
+</html>
