@@ -6,7 +6,11 @@ Como usar:
 
 2 - abra a pasta com o VSCode
 
-3 - F5 dentro do VSCode
+3 - Abra o terminal
+
+4 - dotnet build
+
+5 - dotnet run
 
 <div align="center">
 
