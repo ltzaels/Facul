@@ -2,7 +2,7 @@
 
 Como usar:
 
-1 - Baixe o arquivo
+1 - git clone https://github.com/ltzaels/Facul/tree/main/PI
 
 2 - abra a pasta com o VSCode
 
