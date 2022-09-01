@@ -7,8 +7,11 @@ Como usar:
 <div align="center">
 
 Feito por:
+  
   Luys  [https://github.com/ltzaels/]
+  
   Leonardo []
+  
   Jefferson  []
 
 </div>
